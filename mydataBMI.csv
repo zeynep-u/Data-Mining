@@ -1,0 +1,501 @@
+Id,First name,Last name,Job,Self-employed,Age,Weight,Height,BMI,BMI Level
+1,Samantha,Hernandez,"Scientist, clinical (histocompatibility and immunogenetics)",N,69,180.79513383339608,71,358.6493430537514,definitely too much
+2,Sara,Ibarra,Radiation protection practitioner,Y,56,158.65459853674275,155,66.03729387585545,definitely too much
+3,Alyssa,Hicks,Contracting civil engineer,N,129,196.06723381495314,142,97.23627941626322,definitely too much
+4,John,Hughes,Magazine features editor,N,117,84.04042181894758,66,192.9302612923498,definitely too much
+5,Carla,Walls,Child psychotherapist,N,54,52.97798324408833,194,14.076411745161105,too little
+6,Paul,Johnson,Telecommunications researcher,N,138,163.50087659994287,144,78.84880237265764,definitely too much
+7,Brandon,Holmes,Artist,Y,28,26.815189668212994,32,261.8670866036425,definitely too much
+8,Victor,Jacobson,Medical sales representative,Y,30,145.24814257903546,141,73.05877097682988,definitely too much
+9,Arthur,Rivera,Police officer,Y,104,74.38825388265124,8,11623.164669164256,definitely too much
+10,Wanda,Bailey,Chartered legal executive (England and Wales),N,15,186.45001618284584,167,66.85432112404384,definitely too much
+11,Johnny,Wagner,Water engineer,N,84,173.03563961227414,82,257.34033255840893,definitely too much
+12,Elizabeth,Bennett,"Geologist, engineering",N,15,3.571596920747702,266,0.5047765448509952,too little
+13,Mark,Myers,"Conservator, museum/gallery",N,50,63.52048460160939,265,9.045280826145872,too little
+14,Isaac,Freeman,Dietitian,N,14,18.186262202299577,79,29.139981096458218,too much
+15,Linda,Flores,Interior and spatial designer,N,134,199.36592802398215,54,683.6965981618043,definitely too much
+16,Rita,Price,"Research officer, trade union",N,91,166.67881799764163,117,121.76113521633549,definitely too much
+17,Dominic,Castillo,Research scientist (life sciences),Y,98,197.93714370198217,165,72.70418501450219,definitely too much
+18,Brittany,Calhoun,Multimedia programmer,Y,101,76.28308258586411,260,11.284479672465103,too little
+19,Kristie,Trevino,Artist,N,109,27.71409557205533,12,1924.5899702816203,definitely too much
+20,Charles,Williams,Museum education officer,Y,44,68.65439636429043,25,1098.470341828647,definitely too much
+21,Michael,Allen,Regulatory affairs officer,N,7,158.38505811194995,146,74.30336747605084,definitely too much
+22,Martha,Shaw,"Programmer, systems",Y,54,121.57268898589518,160,47.4893316351153,definitely too much
+23,Jeffrey,Alvarado,Quantity surveyor,N,72,194.484669972586,70,396.9074897399715,definitely too much
+24,Kelly,Kelly,"Lighting technician, broadcasting/film/video",Y,0,190.3115946166986,249,30.694923407154494,definitely too much
+25,Brian,Nelson,"Journalist, newspaper",Y,55,66.23729857533367,67,147.55468606668225,definitely too much
+26,Megan,Davidson,Rural practice surveyor,Y,43,34.941254481678,266,4.938274419367686,too little
+27,Selena,Moore,Manufacturing systems engineer,N,19,180.68891814602244,143,88.36076001076945,definitely too much
+28,David,Branch,Technical brewer,N,97,41.02173302989546,150,18.231881346620202,too little
+29,Melinda,Dixon,"Designer, furniture",N,7,110.83816670514491,188,31.359825346634484,definitely too much
+30,Jordan,Torres,"Embryologist, clinical",Y,22,186.10638164312573,188,52.655721379336164,definitely too much
+31,Angela,Vaughn,Freight forwarder,Y,57,61.29910542713773,117,44.779827180318314,definitely too much
+32,Tina,Ford,Communications engineer,Y,28,137.674392668994,268,19.168299268906487,just right
+33,Brenda,Snow,"Engineer, control and instrumentation",Y,70,66.99717485159834,121,45.75997189508801,definitely too much
+34,Jason,Jones,Freight forwarder,Y,114,8.701377376214591,144,4.1962660957825,too little
+35,Jessica,Yang,Pharmacologist,Y,127,174.30273959879335,243,29.51832200355524,too much
+36,Veronica,Lee,Aeronautical engineer,Y,147,78.17621028788682,243,13.239209857556743,too little
+37,Alexandra,Haas,Further education lecturer,N,33,82.31943573803,232,15.294187674277275,too little
+38,Peggy,Mejia,IT consultant,N,48,142.65831082511536,107,124.6032935846933,definitely too much
+39,Jonathon,Ryan,"Horticulturist, amenity",N,70,159.37520090605614,169,55.80168793321528,definitely too much
+40,Jennifer,Parker,"Engineer, aeronautical",Y,143,44.09322951072196,138,23.15334462860847,just right
+41,Donald,Clark,Communications engineer,N,41,181.3572339702033,215,39.23358225423544,definitely too much
+42,Catherine,Harrington,Toxicologist,N,7,113.53523218940282,215,24.561434762445177,just right
+43,Lisa,Marks,Colour technologist,N,78,196.19429713138013,0,inf,definitely too much
+44,Gabriel,Ruiz,Translator,Y,64,113.44577980725226,256,17.31045224109684,too little
+45,Gina,Hartman,Industrial/product designer,Y,118,135.7104575502567,200,33.92761438756418,definitely too much
+46,Seth,Moreno,Equality and diversity officer,N,107,187.17676495274833,16,7311.592380966731,definitely too much
+47,Casey,Morris,Immunologist,Y,77,190.88939059084663,268,26.577382294337074,too much
+48,Daniel,Romero,"Surveyor, land/geomatics",N,127,128.97466046842422,147,59.68562194845862,definitely too much
+49,Chelsea,Lopez,Ship broker,N,107,130.1292585544316,266,18.391268380693027,too little
+50,Shelby,Morgan,Food technologist,N,71,29.48832465343435,87,38.9593402740578,definitely too much
+51,Steven,Gray,Hotel manager,N,127,29.307395992522014,28,373.8188264352297,definitely too much
+52,Tyler,Roberts,Teaching laboratory technician,N,19,47.835159992463154,216,10.252734909221354,too little
+53,Gloria,Burke,"Production assistant, radio",Y,137,124.94673886217736,95,138.44514001349293,definitely too much
+54,James,Reed,Barrister,N,95,81.78529076300326,226,16.012469802451893,too little
+55,Carmen,Cummings,Sports coach,Y,124,73.31759819266783,266,10.362032646371732,too little
+56,Jillian,Gonzalez,Plant breeder/geneticist,Y,81,162.8703320703828,248,26.481258466178264,too much
+57,Stephanie,Harris,Museum/gallery curator,N,74,38.943985463930005,33,357.6123550406795,definitely too much
+58,Wesley,Gill,"Engineer, broadcasting (operations)",Y,21,88.08773775422429,6,24468.81604284008,definitely too much
+59,Savannah,Lucas,"Pharmacist, community",N,61,50.812331848923726,62,132.1860870159306,definitely too much
+60,Denise,Ferguson,"Designer, blown glass/stained glass",N,77,12.677330611082636,147,5.866690087964569,too little
+61,Danielle,Russell,Operational investment banker,N,139,29.737352583517342,126,18.731010697604773,just right
+62,Amber,Hill,Customer service manager,Y,57,147.03604488307099,250,23.525767181291357,just right
+63,Richard,Garcia,Broadcast presenter,Y,27,63.29423226678363,143,30.952238381722157,definitely too much
+64,Leslie,David,Chief Technology Officer,Y,121,92.85164123751903,201,22.982510640211643,just right
+65,Sheila,Rogers,"Surveyor, planning and development",N,138,152.47306166189506,204,36.63808671229697,definitely too much
+66,Bradley,Hinton,Probation officer,N,87,162.5069370704056,171,55.575027211930376,definitely too much
+67,Dennis,Madden,IT trainer,Y,142,152.75783079951668,211,34.31141052526149,definitely too much
+68,Jodi,Kramer,Dispensing optician,N,98,18.00947064406385,58,53.53588181945259,definitely too much
+69,Luis,Page,Stage manager,Y,0,150.17484961934346,235,27.193272905268163,too much
+70,Rodney,Robinson,Pension scheme manager,N,66,75.75307547527638,252,11.928866760405072,too little
+71,Natalie,Cooper,Manufacturing engineer,N,140,164.17491550591444,231,30.76683636099669,definitely too much
+72,Katherine,Clarke,Colour technologist,N,130,86.34920312793359,221,17.67965502916271,too little
+73,Cynthia,Bell,Hospital doctor,N,56,191.93340392100876,113,150.31200870938116,definitely too much
+74,Joseph,Copeland,Chartered public finance accountant,N,46,193.05697750332072,103,181.97471722435736,definitely too much
+75,Nicole,Brown,Stage manager,N,103,113.78827206928285,2,284470.68017320713,definitely too much
+76,Joy,Lara,"Therapist, nutritional",N,4,153.34034695519478,116,113.9568571307928,definitely too much
+77,Christopher,Stone,Sports development officer,N,43,189.99529798231092,96,206.1580924287228,definitely too much
+78,Travis,Miller,Retail merchandiser,Y,143,112.94645911857477,22,2333.6045272432802,definitely too much
+79,Amanda,Meyers,Quarry manager,N,133,159.7571783010177,10,15975.717830101767,definitely too much
+80,Phillip,Rodriguez,Market researcher,N,6,163.47582246671183,25,2615.6131594673893,definitely too much
+81,Craig,Hall,Geophysicist/field seismologist,Y,124,56.089087617007536,37,409.7084559313918,definitely too much
+82,Rebecca,Stevens,"Administrator, education",N,37,178.17640768944773,146,83.58810644091187,definitely too much
+83,Chad,Brooks,Advice worker,Y,80,129.0582940430922,207,30.119324615065043,definitely too much
+84,Teresa,Wilkerson,"Engineer, manufacturing",Y,126,191.00603731526155,240,33.16077036723291,definitely too much
+85,Andre,Pierce,"Designer, blown glass/stained glass",N,121,155.5770164593184,183,46.45615469536814,definitely too much
+86,Morgan,Ramirez,"Designer, jewellery",Y,145,137.67116576366126,129,82.73010381807659,definitely too much
+87,Greg,Beltran,Consulting civil engineer,N,12,111.9778796809479,40,699.8617480059241,definitely too much
+88,Heather,Stephens,Telecommunications researcher,N,72,141.96238059624937,104,131.25220099505304,definitely too much
+89,Timothy,Wong,Social worker,Y,47,156.44641303406704,135,85.84165324228643,definitely too much
+90,Scott,Osborn,Professor Emeritus,N,48,116.86710636921457,228,22.481360874348756,just right
+91,Katie,Kirby,Public librarian,Y,101,100.66696292376746,65,238.26500100299987,definitely too much
+92,Stephen,Aguilar,Restaurant manager,N,46,119.04744663107365,251,18.89612016175516,just right
+93,Randy,Mcfarland,Textile designer,Y,30,185.6831951764577,146,87.1097744306895,definitely too much
+94,Edgar,Barker,Camera operator,N,83,62.513279646630494,13,3699.0106299781355,definitely too much
+95,Ethan,Short,Seismic interpreter,N,21,12.314965575695373,181,3.759032256553638,too little
+96,Kellie,Choi,"Horticulturist, amenity",N,90,174.60086082109734,233,32.161369857816005,definitely too much
+97,Carolyn,Rhodes,Print production planner,Y,39,88.67786965404417,267,12.4392079639277,too little
+98,Matthew,Ramos,Insurance risk surveyor,N,142,166.09857759183274,177,53.01751654755425,definitely too much
+99,Nicholas,Sawyer,Chartered loss adjuster,Y,14,43.609189683052776,0,inf,definitely too much
+100,Diane,Holt,"Accountant, chartered",Y,108,33.904418701161646,191,9.293719662608384,too little
+101,Randall,Cruz,Systems developer,Y,121,50.76204985936158,157,20.593959129928834,just right
+102,Erin,Valencia,Maintenance engineer,N,114,59.731202370620345,241,10.28412086062918,too little
+103,Roger,Hamilton,Adult nurse,Y,22,91.45638089773091,203,22.193302651782606,just right
+104,Dawn,Davenport,Careers information officer,N,65,73.6939037506178,120,51.176322049040145,definitely too much
+105,Maria,Hampton,Chiropodist,N,107,157.9716163950814,240,27.4256278463683,too much
+106,Carl,Moran,Research scientist (physical sciences),Y,24,188.5996088252033,106,167.85298044250914,definitely too much
+107,Pamela,Chapman,Television/film/video producer,Y,68,117.75323433826902,81,179.47452269207287,definitely too much
+108,Robin,Reyes,Set designer,N,114,97.13693973490471,102,93.364993978186,definitely too much
+109,Anthony,Burns,"Journalist, newspaper",Y,27,50.254136085722735,149,22.63597859813645,just right
+110,Jesse,Taylor,"Engineer, site",N,49,175.76347999912852,264,25.218589301986988,too much
+111,Michelle,Alvarez,Drilling engineer,N,27,186.6217271669327,14,9521.516692190442,definitely too much
+112,Herbert,Wang,"Designer, multimedia",Y,145,7.1925375947130386,126,4.530446960640614,too little
+113,Juan,Newman,Food technologist,N,79,73.55274294136154,104,68.00364547093338,definitely too much
+114,Jeremy,Pittman,Theatre director,N,92,76.64480509272022,128,46.78027654584974,definitely too much
+115,Robert,Gregory,Holiday representative,N,2,14.192106493753913,260,2.099424037537561,too little
+116,Gregory,Bartlett,"Scientist, physiological",Y,40,80.54912523565127,6,22374.757009903133,definitely too much
+117,Tammy,Robertson,Probation officer,N,121,171.49720662692437,81,261.38882278147287,definitely too much
+118,Derek,Hurst,"Therapist, music",Y,21,109.03105467399465,233,20.083452388880737,just right
+119,Douglas,Keith,Clinical biochemist,Y,99,40.27359388021501,234,7.355101519507454,too little
+120,Dustin,Santana,"Research officer, political party",Y,10,118.54363971398224,16,4630.610926327431,definitely too much
+121,Jenny,Gonzales,"Psychologist, occupational",Y,28,114.5254736772843,212,25.48181596593189,too much
+122,Russell,Wilson,Clinical research associate,N,110,115.94062144850382,252,18.257215521621287,too little
+123,Kristina,Sutton,Private music teacher,N,14,120.76708875109429,130,71.45981582904987,definitely too much
+124,Kelli,Sanders,Chartered loss adjuster,N,46,188.7868707834602,221,38.653359018746585,definitely too much
+125,Lance,Sharp,"Scientist, research (life sciences)",Y,98,174.95932427616677,64,427.14678778361025,definitely too much
+126,Sherry,Knapp,Dietitian,Y,3,26.933649746142166,84,38.171272315961126,definitely too much
+127,Antonio,Neal,Secretary/administrator,N,133,171.73329270192994,53,611.3680765465643,definitely too much
+128,Larry,Terry,Production manager,Y,95,169.51535013148077,76,293.48225438275756,definitely too much
+129,Tom,Woodward,"Conservator, museum/gallery",N,10,162.80669941041054,152,70.46688859522617,definitely too much
+130,Joshua,Huber,"Embryologist, clinical",N,62,127.74625267304735,134,71.14404804691877,definitely too much
+131,Donna,Andrews,Barista,N,132,172.39414523466488,258,25.89900625483217,too much
+132,Michele,Long,Theme park manager,Y,61,128.80253253495854,84,182.54327173321792,definitely too much
+133,Julie,Garrison,"Surveyor, building control",N,3,70.90013164784192,258,10.651422938501579,too little
+134,Autumn,Moss,Exercise physiologist,N,65,54.13635633644617,13,3203.33469446427,definitely too much
+135,April,Keller,Comptroller,N,149,130.43575185220598,95,144.52714886671023,definitely too much
+136,Tasha,Berry,Communications engineer,Y,61,44.28097893121199,72,85.41855503706017,definitely too much
+137,Grant,Martin,Market researcher,N,108,193.6138009800573,68,418.7149675174249,definitely too much
+138,Samuel,Henderson,Holiday representative,N,47,134.55076816833645,261,19.751731208927712,just right
+139,Bruce,Andrade,"Engineer, drilling",N,61,48.23356128018249,100,48.23356128018249,definitely too much
+140,Julia,Dudley,Archaeologist,N,52,73.59607242680711,115,55.64920410344584,definitely too much
+141,Christina,Mullins,Financial manager,N,98,123.57311130825552,17,4275.886204437907,definitely too much
+142,William,Krueger,Broadcast journalist,Y,85,139.53500343634656,169,48.85508330812877,definitely too much
+143,Raymond,Campbell,"Engineer, maintenance (IT)",N,28,140.29079730489508,155,58.39367213523207,definitely too much
+144,Melanie,Green,Trading standards officer,N,80,192.22637527367772,244,32.28741858265213,definitely too much
+145,Cole,Rodgers,Museum/gallery conservator,N,110,15.992890527708289,247,2.6213985686879453,too little
+146,Sandra,Franklin,Oceanographer,N,31,65.49144090775552,186,18.93035059190528,just right
+147,Amy,Hopkins,Records manager,Y,69,137.54159243589243,122,92.40902474865119,definitely too much
+148,Holly,Logan,Public relations officer,Y,142,41.27948681614701,42,234.01069623666112,definitely too much
+149,Colin,Benson,Physiotherapist,N,57,118.71957518598249,12,8244.414943471007,definitely too much
+150,Rachel,Smith,Actor,Y,70,90.47162361609966,164,33.637575704974594,definitely too much
+151,Bonnie,Ortiz,Gaffer,N,108,168.77584766054167,196,43.93373793745879,definitely too much
+152,Christian,Bauer,"Teacher, music",N,58,115.44246864027467,241,19.876115879594817,just right
+153,Kenneth,Wilcox,"Research officer, government",Y,100,126.34495282878154,154,53.274141013991205,definitely too much
+154,Nancy,Mathews,Clinical psychologist,Y,34,116.5175392444824,158,46.67422658407402,definitely too much
+155,Jacqueline,Lambert,Financial planner,N,108,77.83274775440569,124,50.61963303486322,definitely too much
+156,Alexander,Lynch,Environmental education officer,Y,145,165.48598980650297,55,547.0611233272824,definitely too much
+157,Justin,Pearson,Land/geomatics surveyor,N,15,104.65067028281214,195,27.521543795611347,too much
+158,Dominique,Mcdaniel,Psychotherapist,Y,62,136.87112374325318,7,27932.882396582278,definitely too much
+159,Benjamin,Daniel,Materials engineer,N,21,92.76702031044454,168,32.86813361339447,definitely too much
+160,Tiffany,Carter,Musician,N,50,104.28643001766893,156,42.85274080278966,definitely too much
+161,Alex,Blackwell,Building control surveyor,Y,17,193.19595200090794,0,inf,definitely too much
+162,Philip,Mora,Pathologist,Y,33,68.13599087363856,164,25.333131645463478,too much
+163,Kristi,Griffith,Garment/textile technologist,Y,107,178.68422211924465,158,71.57675938120678,definitely too much
+164,Kim,Olson,"Research officer, government",N,100,59.211022614883454,209,13.555326712960662,too little
+165,Thomas,Patterson,Personnel officer,N,135,176.69332243481816,224,35.21470871229634,definitely too much
+166,Jonathan,Summers,Biomedical engineer,Y,52,70.29237482382841,88,90.77011211754701,definitely too much
+167,Terri,Bishop,Ophthalmologist,Y,86,130.72027702960378,232,24.286615084275375,just right
+168,Lori,Bowers,Community pharmacist,N,88,38.709264270793184,203,9.393400536483098,too little
+169,Kevin,Rocha,Fitness centre manager,N,9,82.19397002400926,233,15.14007810495851,too little
+170,Eugene,Kim,Arts administrator,N,135,123.77733825937494,208,28.60977677962623,too much
+171,Kelsey,Nash,Marine scientist,Y,145,58.09845855218641,130,34.37778612555408,definitely too much
+172,Zachary,Flynn,"Psychologist, sport and exercise",N,36,114.02053776210295,64,278.37045352075916,definitely too much
+173,Pedro,King,"Conservator, furniture",Y,113,29.14357043697075,198,7.4338257414985085,too little
+174,Anne,Walker,Location manager,N,89,1.8481579928649685,42,10.47708612735243,too little
+175,Kathy,Wade,Clinical psychologist,N,88,78.51385190450932,78,129.04972370892392,definitely too much
+176,Ashley,Garza,"Surveyor, land/geomatics",Y,67,196.4494297540885,254,30.44972251132874,definitely too much
+177,Jeff,Hunter,"Secretary, company",Y,149,94.14130215282573,141,47.35239784358218,definitely too much
+178,Andrea,Joseph,"Therapist, occupational",Y,53,115.66040842025141,35,944.1665993489912,definitely too much
+179,Tyrone,Hardin,Proofreader,N,24,183.72151416290475,55,607.3438484724123,definitely too much
+180,Sean,Armstrong,Theatre stage manager,Y,111,136.96846218949847,52,506.54017081915106,definitely too much
+181,Mathew,Shaffer,Consulting civil engineer,Y,127,90.03360235617767,131,52.46407689305848,definitely too much
+182,Barbara,Kerr,Camera operator,N,68,135.81440704343208,28,1732.3266204519396,definitely too much
+183,Melissa,Jackson,"Administrator, education",Y,136,175.39229485626163,231,32.86900448947014,definitely too much
+184,Sarah,Glass,"Designer, interior/spatial",Y,69,143.52941282408509,67,319.7358271866453,definitely too much
+185,Tony,Peck,"Therapist, music",Y,63,126.28599598116024,261,18.538482403540797,just right
+186,Ryan,Conley,Fashion designer,Y,47,85.18107325101558,187,24.359024636396683,just right
+187,Mary,Noble,"Engineer, civil (contracting)",Y,46,145.24751004027482,151,63.70225430475629,definitely too much
+188,Rebekah,Bowman,Energy engineer,Y,112,56.14775979167598,65,132.89410601580113,definitely too much
+189,Jacob,Hood,"Librarian, public",Y,13,127.6873893585696,172,43.160961789673344,definitely too much
+190,Angelica,Simmons,Printmaker,Y,82,65.30707783260725,130,38.643241321069375,definitely too much
+191,Jill,Parrish,Chartered loss adjuster,N,49,159.12342030256198,15,7072.152013447199,definitely too much
+192,Micheal,Ramsey,Printmaker,Y,146,192.97474923256357,215,41.74683596161462,definitely too much
+193,Cristina,Bernard,Camera operator,N,63,53.544376330639864,119,37.81115481296509,definitely too much
+194,Lauren,Walters,Restaurant manager,N,3,142.44744710690014,252,22.43125584323824,just right
+195,Vanessa,Hobbs,Mechanical engineer,N,108,55.79735502876106,116,41.46652424848474,definitely too much
+196,Shannon,Martinez,"Lighting technician, broadcasting/film/video",N,126,47.44667495438073,121,32.40671740617494,definitely too much
+197,Jaime,Tapia,Armed forces training and education officer,N,110,175.76587274575536,172,59.41247726668313,definitely too much
+198,Jared,Mitchell,Financial controller,Y,103,110.36484562392016,176,35.6291469602015,definitely too much
+199,Ruth,Duncan,"Journalist, newspaper",N,77,75.80848241880817,198,19.336925420571415,just right
+200,Jose,Li,Community arts worker,Y,89,29.391501017220346,87,38.83141896845071,definitely too much
+201,Theresa,Giles,"Surveyor, building control",Y,80,55.90370700857503,174,18.46469381971695,too little
+202,Sharon,Perez,IT technical support officer,N,77,165.4783441040058,177,52.81954231032136,definitely too much
+203,Latoya,Snyder,Operational researcher,Y,95,2.439587963814825,252,0.3841628816790792,too little
+204,Jean,Munoz,Field trials officer,N,91,20.748622013833053,257,3.1413983578605364,too little
+205,Carrie,Johnston,Science writer,Y,65,194.82841438056116,51,749.0519584027726,definitely too much
+206,Kurt,Oconnor,Dentist,N,1,154.9461567210036,221,31.72460775188952,definitely too much
+207,Allison,Wright,Occupational psychologist,Y,15,104.90835991494173,234,19.159244633454186,just right
+208,Tracy,Graham,Health visitor,N,146,71.16732001987533,31,740.5548389164967,definitely too much
+209,Andrew,Medina,Ship broker,Y,119,134.57438694652052,223,27.061550995700802,too much
+210,Shawn,Graves,Patent examiner,N,12,139.02922835368082,235,25.17505266703138,too much
+211,Katelyn,Carroll,Tourist information centre manager,N,40,20.336772073185635,67,45.30356888657971,definitely too much
+212,Devon,Collins,Hydrographic surveyor,N,109,84.30888030776974,139,43.63587821943469,definitely too much
+213,Hayden,Willis,"Teacher, primary school",N,93,24.122523314544807,115,18.240093243512145,too little
+214,Ricky,Hancock,"Civil engineer, consulting",Y,146,172.34141452003743,187,49.28405574080969,definitely too much
+215,Leonard,Henry,Equities trader,Y,28,43.80267041309328,75,77.87141406772139,definitely too much
+216,Mario,Bonilla,Hospital pharmacist,Y,145,137.37771182749182,151,60.250739804171666,definitely too much
+217,Deborah,Thomas,Fast food restaurant manager,Y,15,156.65578220359873,20,3916.3945550899675,definitely too much
+218,Crystal,Fisher,"Scientist, research (physical sciences)",Y,87,0.5616030672654497,202,0.1376343170437824,too little
+219,Karen,Anderson,Web designer,Y,77,96.4640442357416,183,28.804695343468477,too much
+220,Bobby,Floyd,Database administrator,N,121,46.219679243480996,235,8.369339835849885,too little
+221,Walter,Gordon,Adult nurse,N,117,36.85110718863639,192,9.99650260108409,too little
+222,Alicia,Schultz,Ecologist,Y,12,91.59249349464415,137,48.79987931943318,definitely too much
+223,Debra,Ellison,Medical illustrator,N,53,79.0251505252354,102,75.95650761748885,definitely too much
+224,Curtis,Phillips,"Physicist, medical",N,148,146.28711889289053,196,38.079737321139774,definitely too much
+225,Erik,Navarro,Product manager,N,109,29.873755135113427,37,218.21588849608057,definitely too much
+226,Kristen,Mcpherson,Publishing rights manager,Y,131,3.601729428271048,123,2.380679111819055,too little
+227,Valerie,Lowery,Cytogeneticist,N,26,53.20047303943083,212,11.837057903041746,too little
+228,Alice,Boone,Clinical molecular geneticist,N,37,16.629606848027368,106,14.800290893580781,too little
+229,Kimberly,Simpson,Speech and language therapist,N,5,13.13343714817019,32,128.2562221500995,definitely too much
+230,Paula,Luna,Garment/textile technologist,N,20,122.10682391317523,269,16.87467336177986,too little
+231,Todd,Gallegos,"Scientist, physiological",N,48,184.0248380467333,31,1914.9306768650706,definitely too much
+232,Kyle,Sanford,Financial manager,N,45,83.47873072608621,14,4259.118914596234,definitely too much
+233,Lynn,Huffman,Private music teacher,N,143,150.60353344224959,89,190.13197000662743,definitely too much
+234,Emily,Dean,Animator,N,140,196.40702481844804,248,31.934024586766395,definitely too much
+235,Aimee,Mendoza,Pathologist,N,113,194.12852234314983,161,74.89237388339562,definitely too much
+236,Frances,Macdonald,Surgeon,Y,49,6.788210136175069,62,17.65923552594971,too little
+237,Debbie,Shah,Arboriculturist,N,17,197.57546012541917,216,42.34727797612722,definitely too much
+238,Claire,Jenkins,"Engineer, site",N,126,133.06512164941967,267,18.665589592983444,just right
+239,Janice,Decker,Economist,Y,95,24.63325733613445,30,273.7028592903828,definitely too much
+240,Willie,Trujillo,Dancer,Y,108,187.41805494694813,56,597.6341037849111,definitely too much
+241,Jaclyn,Cox,Sports coach,Y,11,55.68108579078815,183,16.62667914562637,too little
+242,Darrell,Nguyen,"Horticulturist, commercial",N,58,165.83049598828558,152,71.7756648148743,definitely too much
+243,Stacey,Thompson,Product/process development scientist,Y,39,156.86761518810138,247,25.712208885263053,too much
+244,Laura,Chambers,"Teacher, music",Y,120,59.92162435256455,92,70.7958699817634,definitely too much
+245,Maurice,Yoder,Animator,Y,139,143.125035623913,18,4417.439371108426,definitely too much
+246,Kathleen,White,"Surveyor, mining",N,34,156.07359448084048,264,22.393479465226193,just right
+247,Frank,Jimenez,Quality manager,N,143,95.5149676797257,194,25.378618259040735,too much
+248,Penny,Mays,"Copywriter, advertising",N,48,138.39247574193993,122,92.98070125096744,definitely too much
+249,Jon,Wheeler,Fine artist,N,125,181.6715795008416,161,70.08663998335001,definitely too much
+250,Nathan,Bright,Commercial horticulturist,N,72,134.93220072271896,221,27.62683006546118,too much
+251,Olivia,Daugherty,"Teacher, music",N,87,80.87891578994817,116,60.106209713100604,definitely too much
+252,George,Marshall,"Copywriter, advertising",Y,77,58.275346078229866,177,18.60108719660055,just right
+253,Ian,Strong,"Journalist, newspaper",Y,73,167.62701411242062,122,112.62228843887438,definitely too much
+254,Ann,Holden,Set designer,N,69,105.53756984363676,110,87.22113210217913,definitely too much
+255,Adam,Mack,"Engineer, aeronautical",N,119,8.091524521243453,52,29.924277075604483,too much
+256,Lindsey,Marsh,"Editor, film/video",Y,86,48.2391158796717,9,5955.446404897742,definitely too much
+257,Candace,Schroeder,Exercise physiologist,Y,0,3.4671031594727264,132,1.9898434110839796,too little
+258,Christy,Castro,Early years teacher,N,116,172.76650969934568,49,719.5606401472123,definitely too much
+259,Parker,Mills,Systems analyst,N,139,57.949074940553764,134,32.27281963719857,definitely too much
+260,Edward,Mcgee,Web designer,Y,63,166.93498642572916,144,80.50491243524748,definitely too much
+261,Kiara,Adams,"Lighting technician, broadcasting/film/video",Y,24,40.88205159315551,8,6387.820561430548,definitely too much
+262,Shelley,Berger,"Designer, industrial/product",Y,33,48.86663129374588,186,14.124936782791616,too little
+263,Brandi,Oliver,Logistics and distribution manager,Y,90,116.34340864224723,126,73.28257032139533,definitely too much
+264,Becky,Banks,Conference centre manager,Y,32,199.38548627795785,226,39.037020572863554,definitely too much
+265,Johnathan,Owens,Midwife,Y,147,79.14479274762634,132,45.42286085148435,definitely too much
+266,Eric,Leonard,Counsellor,Y,71,186.17370454063652,38,1289.2915826913886,definitely too much
+267,Carlos,Wiley,Automotive engineer,N,3,41.14189329750008,174,13.58894612812131,too little
+268,Andres,Jennings,Paediatric nurse,N,46,166.85159485373325,96,181.04556733260986,definitely too much
+269,Susan,Humphrey,Air broker,N,2,54.889633627264104,55,181.45333430500528,definitely too much
+270,Ronnie,Sandoval,"Presenter, broadcasting",Y,66,199.57067519257814,155,83.06791891470473,definitely too much
+271,Keith,Dunlap,Claims inspector/assessor,Y,22,107.99417200107925,74,197.2136084753091,definitely too much
+272,Joanne,Newton,Waste management officer,N,126,187.32568976120845,188,53.000704436738474,definitely too much
+273,Terry,Hayes,Data processing manager,Y,120,15.472439828928673,133,8.746927372337991,too little
+274,Isaiah,Sanchez,Customer service manager,N,11,102.75220344884238,198,26.209622346914188,too much
+275,Patricia,Bass,Physiological scientist,Y,11,59.025539298004325,153,25.214891408434504,too much
+276,Ronald,Bean,Ship broker,Y,70,166.32673626712764,7,33944.231891250536,definitely too much
+277,Ellen,Frey,Historic buildings inspector/conservation officer,N,63,46.21012424057154,12,3209.036405595246,definitely too much
+278,Tara,Wood,Accounting technician,N,66,189.81483882731442,221,38.86383137677657,definitely too much
+279,Wendy,Greene,Pensions consultant,N,107,27.175087001828988,143,13.289200939815634,too little
+280,Briana,Scott,Patent examiner,Y,37,188.10345696644063,2,470258.64241610153,definitely too much
+281,Jenna,Pineda,Community pharmacist,N,21,180.60580239482022,39,1187.4148743906653,definitely too much
+282,Alexis,Blake,Broadcast engineer,N,55,179.55393635169898,189,50.26565223585538,definitely too much
+283,Tamara,Young,Ceramics designer,N,96,71.24217722510797,71,141.32548546936712,definitely too much
+284,Sonya,Ross,Operational investment banker,Y,45,111.93645464767037,95,124.02931262899764,definitely too much
+285,Patrick,Kelley,Production engineer,N,108,179.28997646151672,162,68.31655862731165,definitely too much
+286,Kristy,Fitzgerald,Tax adviser,N,80,177.26875472707115,142,87.91348677200514,definitely too much
+287,Nathaniel,Hodges,Environmental consultant,N,3,139.35985952153607,197,35.90916012304776,definitely too much
+288,Tami,Weaver,Archaeologist,N,115,21.944937996601308,246,3.62630345637539,too little
+289,Shawna,Mclean,Financial planner,Y,73,127.98928139574537,135,70.22731489478483,definitely too much
+290,Kerry,Morse,Tax inspector,Y,91,191.29918007614012,89,241.5088752381519,definitely too much
+291,Tanya,Harmon,Restaurant manager,Y,49,34.149402762762016,157,13.854275127900529,too little
+292,Breanna,Collier,Technical author,N,119,152.6439634672378,120,106.00275240780402,definitely too much
+293,Beth,Payne,Advertising account planner,Y,69,135.08430958204042,138,70.93273975112395,definitely too much
+294,Kathryn,Vega,Naval architect,N,78,178.77739466091447,254,27.71055159354493,too much
+295,Monique,Morales,Financial trader,Y,36,115.40723402026745,218,24.283989988272754,just right
+296,Shaun,Owen,"Engineer, manufacturing systems",N,56,169.48530682905704,242,28.940186262730865,too much
+297,Wayne,Burgess,Energy engineer,N,56,74.4169951223228,37,543.5865239030154,definitely too much
+298,Courtney,Farley,Sports development officer,N,97,114.96873400528212,150,51.09721511345872,definitely too much
+299,Billy,Barnes,Corporate treasurer,N,114,24.371594349064765,234,4.450944983027388,too little
+300,Rick,Edwards,Mechanical engineer,N,105,116.19138942416171,236,20.861711689198817,just right
+301,Jeffery,Vazquez,Health service manager,N,116,163.63935783351013,32,1598.0406038428723,definitely too much
+302,Lee,Hurley,Retail manager,N,93,179.85312272169037,79,288.17997551945257,definitely too much
+303,Alison,Underwood,"Engineer, mining",Y,128,68.79755157084762,28,877.5197904444848,definitely too much
+304,Kara,Sherman,Patent attorney,Y,142,155.3881649808591,151,68.14971491638924,definitely too much
+305,Marc,Baird,Software engineer,Y,18,145.4562645170286,34,1258.2721844033613,definitely too much
+306,Colleen,Juarez,Cytogeneticist,Y,130,148.36914152362976,117,108.38566843716107,definitely too much
+307,Aaron,Ayala,Holiday representative,N,53,39.93835510983423,197,10.291003403806908,too little
+308,Cheryl,Watkins,"Producer, radio",Y,136,120.6804208420493,242,20.60658780855975,just right
+309,Marcus,Caldwell,"Scientist, research (maths)",Y,70,30.11723359238318,142,14.93614044454631,too little
+310,Kayla,Baker,Industrial/product designer,N,17,9.386860322835501,103,8.848016139914696,too little
+311,Kendra,Obrien,Advertising copywriter,Y,65,116.91279527683533,113,91.5598678650132,definitely too much
+312,Harold,Barrera,IT trainer,Y,92,95.49789686505308,244,16.04036160727175,too little
+313,Carol,Murray,Hospital pharmacist,Y,139,107.25379755028338,143,52.449409531167,definitely too much
+314,Diana,Gibson,Retail banker,Y,86,167.51027991012907,105,151.93676182324631,definitely too much
+315,Vincent,Strickland,"Therapist, art",N,141,120.69870350885945,85,167.05702907800617,definitely too much
+316,Anna,Bryant,Water engineer,Y,91,193.6095245214299,62,503.6668171733348,definitely too much
+317,Margaret,Gilbert,Records manager,Y,124,197.55013331337364,259,29.449491407905914,too much
+318,Gary,Lawrence,Make,N,108,133.0571241573235,97,141.41473499556116,definitely too much
+319,Gabrielle,George,Intelligence analyst,N,45,172.14623954340246,125,110.17359330777758,definitely too much
+320,Haley,Cochran,Senior tax professional/tax inspector,Y,134,116.06783448868998,48,503.7666427460503,definitely too much
+321,Hannah,Howard,Medical sales representative,Y,137,18.87875898268277,168,6.68890270078046,too little
+322,Jorge,Hester,Armed forces operational officer,N,129,137.55062853813027,187,39.33501917073129,definitely too much
+323,Tim,Rose,Public relations officer,Y,50,85.80787435066338,191,23.52125061008837,just right
+324,Leah,Guerra,Catering manager,Y,97,172.55329986172126,26,2552.563607421912,definitely too much
+325,Lindsay,Bradley,"Programme researcher, broadcasting/film/video",Y,88,105.61826638707056,228,20.3174565995442,just right
+326,Harry,Duarte,Civil Service administrator,N,108,102.5327326510827,135,56.259386914174314,definitely too much
+327,Abigail,Byrd,Data scientist,N,59,133.7482485496639,40,835.9265534353993,definitely too much
+328,Heidi,Doyle,Materials engineer,Y,92,172.36724513939612,43,932.2187406132836,definitely too much
+329,Yolanda,Durham,Cytogeneticist,N,103,86.13001193931386,75,153.12002122544686,definitely too much
+330,Suzanne,Mahoney,Museum education officer,Y,36,193.77285680532847,238,34.208893581902494,definitely too much
+331,Annette,Patel,Podiatrist,N,13,87.39358258998925,95,96.83499455954488,definitely too much
+332,Warren,Ray,IT sales professional,Y,83,34.02645887969477,209,7.789761882670905,too little
+333,Joel,Serrano,Equities trader,N,88,33.254235650036186,208,7.686352544849339,too little
+334,Erica,Kennedy,"Geologist, wellsite",Y,84,93.40144317333439,236,16.769865551087044,too little
+335,Bryce,Jordan,Actor,N,61,48.38747065945584,52,178.9477465216562,definitely too much
+336,Tonya,Norris,Private music teacher,N,46,103.01750879695413,52,380.9819112313392,definitely too much
+337,Priscilla,Moody,Historic buildings inspector/conservation officer,Y,98,128.3500533174677,203,31.14612179802173,definitely too much
+338,Evan,Peters,Control and instrumentation engineer,Y,51,19.428372480981274,178,6.131919101433302,too little
+339,Jeanette,Barr,Art therapist,Y,8,132.11762888899827,98,137.56521125468376,definitely too much
+340,Shelly,Stewart,Radio broadcast assistant,Y,5,136.06905877778536,169,47.64155974153054,definitely too much
+341,Mercedes,Fernandez,Air broker,Y,9,127.56964200641028,236,22.90463264981512,just right
+342,Charlene,Small,"Copywriter, advertising",Y,119,42.17769561929786,216,9.04014395132413,too little
+343,Brent,Wilkinson,Writer,N,15,157.41063542315533,112,125.48679482075518,definitely too much
+344,Sally,Mcintosh,"Librarian, public",N,27,83.73694918909331,128,51.108977776546205,definitely too much
+345,Trevor,Benitez,Fisheries officer,Y,68,9.370346441377558,18,289.20822349930734,definitely too much
+346,Luke,Foley,"Chemist, analytical",N,29,41.515494703747954,217,8.81638911502643,too little
+347,Reginald,Coleman,Community pharmacist,N,105,128.33823234294164,260,18.984945612861186,just right
+348,Garrett,Carney,Herpetologist,N,91,105.08816515453083,119,74.20956511159582,definitely too much
+349,Corey,Arnold,Herbalist,Y,62,163.1269373570193,147,75.49027597622255,definitely too much
+350,Mia,Guzman,Media buyer,Y,82,113.79544287404363,37,831.2304081376452,definitely too much
+351,Dwayne,Nichols,Land/geomatics surveyor,N,66,191.09299602215228,45,943.6691161587767,definitely too much
+352,Stacy,Flowers,Barrister,Y,137,33.183418511230705,120,23.044040632799103,just right
+353,Cindy,Gardner,"Engineer, chemical",Y,111,5.860506116357972,95,6.493635585992213,too little
+354,Kristopher,Hoffman,Chief of Staff,Y,76,5.1073835801843455,174,1.6869413331299858,too little
+355,Cody,Boyd,"Therapist, art",Y,77,7.166779775082644,116,5.3260848506856755,too little
+356,Troy,Diaz,"Therapist, music",Y,143,1.554408637992255,135,0.8528991154964362,too little
+357,Miguel,Miranda,Physiotherapist,N,127,177.37051425934516,52,655.9560438585249,definitely too much
+358,Sydney,Sweeney,Pathologist,N,19,54.39671868074261,43,294.19534170223153,definitely too much
+359,Jack,Mcknight,Ergonomist,N,137,84.42929302491807,138,44.33380226051149,definitely too much
+360,Katrina,Werner,Clinical biochemist,N,25,177.6505931753046,9,21932.171996951187,definitely too much
+361,Mitchell,Powell,Health and safety inspector,N,47,173.7003026688864,227,33.70923221271253,definitely too much
+362,Roy,Rosario,Outdoor activities/education manager,N,38,55.871401970830384,153,23.86748770593805,just right
+363,Shane,Tyler,Product/process development scientist,Y,132,116.55902680837218,139,60.32763666910212,definitely too much
+364,Adrian,Barton,Magazine journalist,N,79,46.864299308968995,103,44.17409681305401,definitely too much
+365,Taylor,Gomez,"Surveyor, building",N,125,146.88774329890015,261,21.562769674388246,just right
+366,Meghan,James,"Engineer, broadcasting (operations)",N,13,30.84452090301487,140,15.737000460721875,too little
+367,Jeremiah,Reid,Landscape architect,Y,63,55.435738753029476,68,119.88697827212255,definitely too much
+368,Victoria,Contreras,Armed forces training and education officer,N,101,78.85919605131154,268,10.979504908012855,too little
+369,Kristin,Cline,Location manager,Y,45,91.10619109830327,156,37.436797788586155,definitely too much
+370,Henry,Proctor,"Engineer, energy",N,115,32.36351331794681,123,21.391706866248143,just right
+371,Betty,Garner,Restaurant manager,Y,3,14.02841830674892,262,2.043648142117143,too little
+372,Allen,Francis,Landscape architect,Y,113,40.427285377583345,86,54.66101322009647,definitely too much
+373,Gerald,Foster,Food technologist,N,42,120.15383124684358,35,980.8476020150498,definitely too much
+374,Connie,Donovan,Retail buyer,Y,55,175.64242944542855,204,42.20550496093535,definitely too much
+375,Monica,Fowler,Writer,Y,34,182.36310245893546,181,55.664693525513705,definitely too much
+376,Peter,Burnett,"Nurse, adult",N,98,86.27796459894525,19,2389.9713185303394,definitely too much
+377,Roberto,Horn,Travel agency manager,N,100,137.86357176896482,187,39.42451078640075,definitely too much
+378,Vernon,Roman,IT technical support officer,Y,75,51.16718487557654,249,8.252638647050295,too little
+379,Jackson,Zamora,Dancer,Y,57,37.08384061002641,163,13.957559791496259,too little
+380,Tommy,Dominguez,Intelligence analyst,N,4,60.48233584245262,31,629.3687392554903,definitely too much
+381,Dylan,Buchanan,Bonds trader,Y,67,74.12167438673708,170,25.6476381961028,too much
+382,Mallory,Evans,"Nurse, adult",Y,28,107.25067357700502,167,38.45626360823444,definitely too much
+383,Ralph,Levine,Chemical engineer,Y,25,1.8783444144740011,74,3.4301395443279787,too little
+384,Darryl,Arroyo,"Programmer, systems",N,27,165.8840227686704,88,214.2097401454938,definitely too much
+385,Cathy,Welch,Primary school teacher,N,118,161.08748640182048,141,81.02584699050375,definitely too much
+386,Cameron,Butler,Dance movement psychotherapist,N,15,110.30350664055194,193,29.6124746008086,too much
+387,Dean,Cortez,Applications developer,N,90,195.12088218251665,33,1791.7436380396384,definitely too much
+388,Brooke,Horton,"Therapist, horticultural",N,64,160.56849561987815,179,50.11344702720831,definitely too much
+389,Bryan,Turner,"Development worker, international aid",Y,33,115.64878574214238,116,85.94588714487395,definitely too much
+390,Ariana,Waters,Regulatory affairs officer,N,105,29.741801230923457,115,22.489074654762543,just right
+391,Hunter,Pena,"Engineer, biomedical",Y,139,109.21776694262425,254,16.928787733682228,too little
+392,Stefanie,Goodwin,Warehouse manager,N,35,11.144531917914714,269,1.5401296164943428,too little
+393,Whitney,Gibbs,Lexicographer,Y,67,41.46104438567319,131,24.16003984946867,just right
+394,Madison,Christian,"Solicitor, Scotland",N,141,158.74974878587585,245,26.447271767742745,too much
+395,Levi,Schneider,Newspaper journalist,N,127,178.67382319205262,43,966.326788491361,definitely too much
+396,Janet,Thornton,"Buyer, industrial",Y,26,60.69334412311002,204,14.584136900016826,too little
+397,Belinda,Lamb,Communications engineer,Y,59,96.83755269199774,17,3350.780369965319,definitely too much
+398,Brett,Higgins,Estate manager/land agent,Y,46,31.3544122084017,170,10.849277580761836,too little
+399,Dana,Webb,Veterinary surgeon,N,39,195.79789017527852,124,127.3399389797597,definitely too much
+400,Brianna,Mercer,"Surveyor, building control",Y,41,156.5755044244446,208,36.19071385550217,definitely too much
+401,Yesenia,Montgomery,Estate manager/land agent,N,59,181.37548989815954,92,214.29051263960247,definitely too much
+402,Joe,Harrell,"Designer, industrial/product",Y,71,92.25200635081211,44,476.5082972665915,definitely too much
+403,Caitlin,Barrett,Mechanical engineer,Y,74,124.09580096170585,172,41.94693109846737,definitely too much
+404,Rhonda,Rollins,Hydrographic surveyor,Y,138,119.67373215746385,73,224.57071149833715,definitely too much
+405,Caroline,Knight,Regulatory affairs officer,Y,7,116.54256144051647,189,32.625783556036076,definitely too much
+406,Steve,Velez,Education administrator,Y,80,114.92319922732203,179,35.867544467189546,definitely too much
+407,Nichole,Davis,Chartered accountant,N,129,126.38227287663912,241,21.759658559019147,just right
+408,Jimmy,Vance,Patent attorney,N,143,15.823651841804985,75,28.130936607653307,too much
+409,Eddie,Avila,"Lighting technician, broadcasting/film/video",Y,29,35.945477892163495,105,32.60360806545442,definitely too much
+410,Eileen,Norman,Commercial/residential surveyor,N,58,73.37109786647471,97,77.97969801942259,definitely too much
+411,Tracey,Fields,Chiropodist,N,114,119.87284287585739,208,27.70729541324366,too much
+412,Austin,Best,Records manager,Y,32,98.19642820899908,157,39.837895334090256,definitely too much
+413,Derrick,Kane,Horticultural therapist,Y,33,144.62444273205855,63,364.38509128762547,definitely too much
+414,Louis,Atkins,"Teacher, English as a foreign language",Y,40,133.2156633946367,23,2518.254506514871,definitely too much
+415,Norman,Brewer,Operational researcher,N,54,34.54572361234307,69,72.55980594905077,definitely too much
+416,Rachael,Randall,Automotive engineer,Y,97,83.08577491092525,135,45.58890255743498,definitely too much
+417,Bianca,Gaines,Environmental consultant,Y,89,121.49561508513135,167,43.563991209843074,definitely too much
+418,Geoffrey,Hawkins,Retail manager,N,82,127.8667746076103,130,75.66081337728419,definitely too much
+419,Devin,Wolfe,Television/film/video producer,Y,5,81.55339139129241,207,19.03274087873519,just right
+420,Alejandra,Cannon,Fish farm manager,Y,11,181.65305069163097,165,66.72288363328961,definitely too much
+421,Lawrence,Richards,Electronics engineer,Y,45,45.06558211484012,269,6.227882715114513,too little
+422,Jerome,Lloyd,Geophysical data processor,N,111,97.82024356078406,176,31.57936581895147,definitely too much
+423,Jody,Klein,Geophysical data processor,N,73,199.00159635859097,3,221112.88484287888,definitely too much
+424,Nicolas,Browning,Event organiser,Y,38,78.34455277059973,217,16.637548635689807,too little
+425,Darius,Parks,Ergonomist,Y,129,25.060181885408458,74,45.76366304859105,definitely too much
+426,Alejandro,Harrison,Field trials officer,Y,50,181.78886694632996,116,135.09874178532252,definitely too much
+427,Kaitlyn,Daniels,Commercial horticulturist,Y,111,54.56119423186454,241,9.393983270237175,too little
+428,Alan,Campos,Nutritional therapist,Y,8,75.1202225643202,260,11.112458959218964,too little
+429,Joann,Griffin,"Physicist, medical",Y,8,28.49454766307386,106,25.360045979951813,too much
+430,Elijah,Jensen,Veterinary surgeon,N,102,10.763765263058284,60,29.899347952939678,too much
+431,Renee,Bray,Technical sales engineer,Y,89,12.13838539204286,80,18.966227175066965,just right
+432,Cory,Woods,Water quality scientist,N,7,74.66198143774417,11,6170.411689069767,definitely too much
+433,Drew,Fischer,"Engineer, maintenance",N,55,128.1215071783022,129,76.9914711725871,definitely too much
+434,Molly,Le,"Editor, magazine features",N,104,130.12840986333927,25,2082.0545578134283,definitely too much
+435,Yvette,Cobb,Clinical embryologist,Y,129,14.178145277187756,209,3.2458380708289094,too little
+436,Malik,Duran,Audiological scientist,N,55,184.95257838604377,64,451.54438082530214,definitely too much
+437,Jay,Monroe,"Engineer, electronics",N,135,130.75474108080311,129,78.57384837497933,definitely too much
+438,Helen,Cabrera,Insurance broker,Y,67,52.88838690545913,234,9.658920831590901,too little
+439,Dorothy,Herrera,Field seismologist,Y,122,64.10768781013871,145,30.491171372241958,definitely too much
+440,Caleb,Ochoa,Armed forces technical officer,N,49,189.13261821027018,244,31.76777381924721,definitely too much
+441,Bethany,Carlson,"Nurse, adult",Y,35,60.611317178419405,124,39.41943104735913,definitely too much
+442,Angel,Hunt,Broadcast presenter,N,108,170.94001042023675,92,201.9612599482948,definitely too much
+443,Vicki,Cardenas,Risk analyst,Y,69,65.82246408779649,152,28.489639927197235,too much
+444,Pam,Key,Equality and diversity officer,Y,25,98.33236243462544,153,42.006220870018126,definitely too much
+445,Jamie,Downs,Farm manager,Y,138,174.75520376101284,70,356.6432729816589,definitely too much
+446,Mariah,Meza,"Psychologist, prison and probation services",N,113,66.78682525790286,196,17.385158594831026,too little
+447,Christine,Mcguire,Herbalist,N,41,31.575713893804473,163,11.884419396215316,too little
+448,Glenn,Wiggins,"Geneticist, molecular",N,133,180.41663531805338,6,50115.732032792606,definitely too much
+449,Beverly,Porter,Water quality scientist,N,12,46.49892003800056,14,2372.3938794898245,definitely too much
+450,Francisco,Richardson,Company secretary,N,110,8.443393297537064,97,8.973741415173839,too little
+451,Sergio,House,"Therapist, speech and language",Y,54,181.85780482293367,27,2494.620093593054,definitely too much
+452,Ebony,Beck,"Investment banker, operational",Y,75,111.33723998580511,119,78.62244190791972,definitely too much
+453,Collin,Patrick,"Surveyor, planning and development",N,58,56.36361923546427,34,487.5745608604175,definitely too much
+454,Roberta,Camacho,Personal assistant,Y,41,176.36006843977162,131,102.76794384929293,definitely too much
+455,Vickie,Combs,Audiological scientist,Y,66,9.032535170007458,267,1.2670307017923463,too little
+456,Oscar,Salazar,"Exhibitions officer, museum/gallery",N,129,31.37190628751501,204,7.538424232870773,too little
+457,Erika,Peterson,"Engineer, land",N,62,162.01908518355322,11,13390.007039963077,definitely too much
+458,Frederick,Carr,"Scientist, product/process development",Y,5,114.16760479486028,11,9435.339239244651,definitely too much
+459,Jasmine,Eaton,Ship broker,Y,134,123.86961830112976,153,52.91538224662727,definitely too much
+460,Martin,Bullock,Administrator,Y,137,39.01303979662698,38,270.1734057938156,definitely too much
+461,Charlotte,Walsh,Materials engineer,N,18,86.3551939385997,158,34.591889896891395,definitely too much
+462,Audrey,Cherry,"Designer, jewellery",Y,115,84.15477922014449,133,47.57463916566481,definitely too much
+463,Danny,Huang,Make,Y,86,97.86759123501965,36,755.15116693688,definitely too much
+464,Sheena,Barnett,"Teacher, early years/pre",Y,57,28.833765964674,179,8.999021867193283,too little
+465,Brad,Mccann,Pension scheme manager,N,18,87.4229864162868,233,16.103259668862346,too little
+466,Melody,Crawford,Arts administrator,N,111,175.32981216583337,115,132.57452715752999,definitely too much
+467,Glen,Mckinney,Commissioning editor,N,69,144.2766107476555,263,20.8585653613115,just right
+468,Clinton,Charles,"Radiographer, therapeutic",N,37,76.00230430909222,15,3377.8801915152103,definitely too much
+469,Doris,Booth,Manufacturing engineer,Y,91,40.15474704107628,110,33.18574135626138,definitely too much
+470,Emma,Garrett,"Editor, commissioning",N,91,44.49780821268883,85,61.58866188607451,definitely too much
+471,Barry,Kidd,Catering manager,N,98,120.08085250524336,197,30.941496174919052,definitely too much
+472,Jane,Shepard,Haematologist,Y,73,47.88224441114322,135,26.272836439584754,too much
+473,Misty,Callahan,"Scientist, research (medical)",N,92,124.22915332470322,104,114.85683554428921,definitely too much
+474,Alexandria,Lewis,"Accountant, chartered management",N,82,63.364668597229624,172,21.418560234325863,just right
+475,Melvin,Mann,Arts administrator,N,3,11.140721465985397,245,1.8560135720092286,too little
+476,Sabrina,Hanson,Tourist information centre manager,N,72,148.57618122568692,92,175.5389664764732,definitely too much
+477,Tracie,Cook,Commercial art gallery manager,Y,46,108.73239005959027,266,15.367232469273315,too little
+478,Edwin,Ortega,"Sound technician, broadcasting/film/video",Y,109,2.8066723921817687,202,0.687842464508815,too little
+479,Traci,Salas,Operational researcher,N,87,197.02076349977335,159,77.93234583274923,definitely too much
+480,Makayla,Williamson,"Psychologist, educational",Y,124,28.124837523816755,142,13.948044794592718,too little
+481,Fernando,Reese,Equality and diversity officer,Y,43,126.37153495744487,142,62.671858241145046,definitely too much
+482,Laurie,Landry,Printmaker,Y,134,61.93772560453042,160,24.19442406426969,just right
+483,Tricia,Haynes,"Scientist, forensic",N,85,161.73764078513142,253,25.267953066776773,too much
+484,Maxwell,Hudson,Television floor manager,Y,82,13.75905271296815,43,74.41348141140158,definitely too much
+485,Clifford,Holland,Commercial/residential surveyor,Y,95,161.0569321506615,13,9529.995985246242,definitely too much
+486,Gail,Johns,Land,N,58,186.89838193045185,71,370.7565600683433,definitely too much
+487,Mckenzie,Solis,Energy manager,Y,110,10.881362090326443,83,15.795270852556893,too little
+488,Lucas,Shepherd,Sports therapist,N,148,176.1888926682587,254,27.30933298224606,too much
+489,Shelia,Cordova,Wellsite geologist,Y,41,167.62115210759208,173,56.00626553095395,definitely too much
+490,Damon,Manning,Market researcher,N,127,13.129631547283449,73,24.638077589197692,just right
+491,Glenda,Stout,Investment analyst,N,79,128.95233389165966,113,100.98859260056362,definitely too much
+492,Bill,Parsons,Geographical information systems officer,N,54,171.50277579746748,170,59.34352103718599,definitely too much
+493,Felicia,Day,"Designer, fashion/clothing",N,8,5.79833162257541,71,11.502344024152768,too little
+494,Hayley,Pennington,Environmental manager,Y,98,87.64545373407135,198,22.356252865542128,just right
+495,Theodore,Spears,"Exhibitions officer, museum/gallery",N,15,73.27766747478664,101,71.83380793528737,definitely too much
+496,Dave,Skinner,Systems developer,N,30,0.8877761429959126,104,0.8207989487758066,too little
+497,Jasmin,Warner,Field trials officer,N,83,102.40931470348691,173,34.21741946055228,definitely too much
+498,Sylvia,Golden,Patent attorney,Y,101,132.57171862951398,217,28.153436817412555,too much
+499,Kerri,Lowe,"Teacher, secondary school",N,14,44.12792895440407,95,48.89521213784385,definitely too much
+500,Calvin,Palmer,Horticultural therapist,N,56,88.79544720146646,191,24.340190017123014,just right
