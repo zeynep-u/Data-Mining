@@ -38,7 +38,7 @@
 
 
 ## Inline Code
-The first code i ever wrote 'print("Hello World")'.
+The first code i ever wrote `print("Hello World")`.
 
 ## Code Block
 
